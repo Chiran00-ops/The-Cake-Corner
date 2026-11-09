@@ -10,7 +10,7 @@
 const SHOP = {
   name: "CAKE Corner Badulla",
   owner: "Priyangika Weerasingha",
-  whatsapp: "0701758700",                 // ← configurable business number
+  whatsapp: "+94701758700",                 // ← configurable business number
   phone: "+94 77 123 4567",
   email: "hello@cakecornerbadulla.lk",
   address: "Badulla, Sri Lanka",
